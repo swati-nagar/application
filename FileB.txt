@@ -1,2 +1,2 @@
 This is file B
-Lets make a change
+Lets make a changegit status
